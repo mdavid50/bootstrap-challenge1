@@ -15,24 +15,17 @@
 </head>
 <body>
 
-<nav class="navbar navbar-light bg-light">
-    <a class="navbar-brand" href="#!">Time to teach</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-            <li class="nav-link">
-                <a class="nav-link" href="#!">Link 1</a>
+            <li class="nav-item active">
+                <a class="nav-link" href="#!">link 1 </a>
             </li>
-            <li class="nav-link">
-                <a class="nav-link" href="#!">Link 2</a>
-            </li>
-            <li class="nav-link">
-                <a class="nav-link" href="#!">Link 3</a>
-            </li>
-            <li class="nav-link">
-                <a class="nav-link" href="#!">Link 4</a>
+            <li class="nav-item active">
+                <a class="nav-link" href="#!">link 2</a>
             </li>
         </ul>
     </div>
