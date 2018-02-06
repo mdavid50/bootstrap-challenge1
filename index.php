@@ -27,6 +27,12 @@
             <li class="nav-item active">
                 <a class="nav-link" href="#!">link 2</a>
             </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="#!">link 3</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="#!">link 4</a>
+            </li>
         </ul>
     </div>
 </nav>
