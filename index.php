@@ -69,7 +69,9 @@
     <div class="row">
         <div class="col-sm-2">
             <div class="card">
-                <img src="images/linux.png" alt="" class="card-img-top">
+                <div class="rounded">
+                    <img src="images/linux.png" alt="" class="card-top-image">
+                </div>
                 <div class="card-body">
                     <h4 class="card-title">Sexy Linux</h4>
                     <p class="card-text">
