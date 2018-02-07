@@ -51,13 +51,13 @@
 </section>
 
 <section class="about">
-    <div class="container-fluid bg-dark">
+    <div class="container-fluid bg-light">
         <div class="row">
-            <div class="col-m-3 ml-2">
+            <div class="col-sm-3 m-2">
                 <img src="images/angry-man.jpg" alt="angry dude">
             </div>
-            <div class="col-m-9">
-                <p class="paragraph">Mr frothy-top socially mobile French café patron joseph stalin challenge you to a duel. Mr frothy-top handsome clive dunn glorious facial hair mark lawrenson crumb catcher.
+            <div class="col-sm-8">
+                <p>Mr frothy-top socially mobile French café patron joseph stalin challenge you to a duel. Mr frothy-top handsome clive dunn glorious facial hair mark lawrenson crumb catcher.
 
                     Mark lawrenson hungarian bruce forsyth albert einstein knavish rogue super mario handlebar, hungarian handlebar knavish rogue burt reynolds consectetur zap rowsdower bruce forsyth super mario albert einstein mark lawrenson ron jeremy. Yosemite sam lady magnets success mustachioed 118 118.</p>
             </div>
