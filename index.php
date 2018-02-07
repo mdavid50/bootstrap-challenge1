@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 </head>
 <body>
-<section class="nav-sec">
+<section class="top-stuff">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar nav-brand">Title</a>
         <button class="navbar-toggler text-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,7 +65,21 @@
     </div>
 </section>
 
-
+<section class="container">
+    <div class="row">
+        <div class="col-sm-2">
+            <div class="card">
+                <img src="images/linux.png" alt="" class="card-img-top">
+                <div class="card-body">
+                    <h4 class="card-title">Sexy Linux</h4>
+                    <p class="card-text">
+                        look how much I care about what Im putting in the card text!! isn't this fun fun fun
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <div class="container">
