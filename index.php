@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- CSS style link -->
-    <link rel="stylesheet" href="css/styles.css" type="text/css" />
+    <!-- <link rel="stylesheet" href="css/styles.css" type="text/css" /> -->
 
 
     <!-- Bootstrap CSS -->
@@ -23,16 +23,16 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
             <ul class="navbar-nav text-right">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#!">link 1 </a>
+                    <a class="nav-link" href="https://mattjdavid.com/public_html/">link 1 </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#!">link 2</a>
+                    <a class="nav-link" href="https://www.motosport.com/">link 2</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#!">link 3</a>
+                    <a class="nav-link" href="https://deepdivecoding.com/">link 3</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#!">link 4</a>
+                    <a class="nav-link" href="https://albuquerque.craigslist.org/">link 4</a>
                 </li>
             </ul>
         </div>
@@ -45,7 +45,7 @@
         <p>It uses utility classes for typography and
             spacing to space content out within the larger container.</p>
         <p class="lead">
-            <a class="btn btn-primary btn-lg" href="#!" role="button">Some action</a>
+            <a class="btn btn-primary btn-lg" href="https://albuquerque.craigslist.org/" role="button">Some action</a>
         </p>
     </div>
 </section>
