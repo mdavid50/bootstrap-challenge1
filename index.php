@@ -16,30 +16,34 @@
 <body>
 <section class="top-stuff">
     <div class="row">
-            <div class="col-12">
-                <div class="container rounded">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar nav-brand">Title</a>
-                <button class="navbar-toggler text-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                    <ul class="navbar-nav text-right">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="https://mattjdavid.com/public_html/">link 1 </a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="https://www.motosport.com/">link 2</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="https://deepdivecoding.com/">link 3</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="https://albuquerque.craigslist.org/">link 4</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+        <div class="col-12">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
+                    <div class="row">
+                        <div class="col-8">
+                            <a class="navbar nav-brand">Title</a>
+                        </div>
+                    </div>
+                    <button class="navbar-toggler text-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse col-4" id="navbarTogglerDemo01">
+                            <ul class="navbar-nav text-right">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://mattjdavid.com/public_html/">link 1 </a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://www.motosport.com/">link 2</a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://deepdivecoding.com/">link 3</a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://albuquerque.craigslist.org/">link 4</a>
+                                </li>
+                            </ul>
+                    </div>
+                </nav>
             </div>
         </div>
     </div>
