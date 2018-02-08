@@ -15,29 +15,35 @@
 </head>
 <body>
 <section class="top-stuff">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar nav-brand">Title</a>
-        <button class="navbar-toggler text-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <ul class="navbar-nav text-right">
-                <li class="nav-item active">
-                    <a class="nav-link" href="https://mattjdavid.com/public_html/">link 1 </a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="https://www.motosport.com/">link 2</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="https://deepdivecoding.com/">link 3</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="https://albuquerque.craigslist.org/">link 4</a>
-                </li>
-            </ul>
+    <div class="row">
+            <div class="col-12">
+                <div class="container rounded">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar nav-brand">Title</a>
+                <button class="navbar-toggler text-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                    <ul class="navbar-nav text-right">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="https://mattjdavid.com/public_html/">link 1 </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="https://www.motosport.com/">link 2</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="https://deepdivecoding.com/">link 3</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="https://albuquerque.craigslist.org/">link 4</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            </div>
         </div>
-    </nav>
-    <div class="jumbotron col-10 ml-auto mr-auto">
+    </div>
+    <div class="jumbotron col-11 ml-auto mr-auto">
         <h1 class="display-3">Hello, world!</h1>
         <p class="lead">This is a simple hero unit, a simple jumbotron-style component for
             calling extra attention to featured content or information.</p>
