@@ -37,7 +37,7 @@
             </ul>
         </div>
     </nav>
-    <div class="jumbotron">
+    <div class="jumbotron col-10 ml-auto mr-auto">
         <h1 class="display-3">Hello, world!</h1>
         <p class="lead">This is a simple hero unit, a simple jumbotron-style component for
             calling extra attention to featured content or information.</p>
@@ -68,9 +68,7 @@
 <section class="container">
     <div class="row">
         <div class="col-sm-2">
-            <div class="rounded">
-                <img src="images/linux.png" alt="" class="card-top-image">
-            </div>
+            <img src="images/linux.png" alt="" class="rounded">
             <div class="card">
                 <div class="card-body">
                     <h4 class="card-title">Sexy Linux</h4>
