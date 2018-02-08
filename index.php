@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- CSS style link -->
-    <!-- <link rel="stylesheet" href="css/styles.css" type="text/css" /> -->
+     <link rel="stylesheet" href="styles/css-style.css" type="text/css" />
 
 
     <!-- Bootstrap CSS -->
@@ -67,11 +67,44 @@
 
 <section class="container">
     <div class="row">
-        <div class="col-sm-2">
-            <img src="images/linux.png" alt="" class="rounded">
+        <div class="col-sm-3">
+            <img src="images/linux.png" alt="" class="img-fluid rounded">
             <div class="card">
                 <div class="card-body">
-                    <h4 class="card-title">Sexy Linux</h4>
+                    <h4 class="card-title">Fancy Linux</h4>
+                    <p class="card-text">
+                        look how much I care about what Im putting in the card text!! isn't this fun fun fun
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <img src="images/linux.png" alt="" class="img-fluid rounded">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Fancy Linux</h4>
+                    <p class="card-text">
+                        look how much I care about what Im putting in the card text!! isn't this fun fun fun
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <img src="images/linux.png" alt="" class="img-fluid rounded">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Fancy Linux</h4>
+                    <p class="card-text">
+                        look how much I care about what Im putting in the card text!! isn't this fun fun fun
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <img src="images/linux.png" alt="" class="img-fluid rounded">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Fancy Linux</h4>
                     <p class="card-text">
                         look how much I care about what Im putting in the card text!! isn't this fun fun fun
                     </p>
@@ -81,14 +114,9 @@
     </div>
 </section>
 
-
-<div class="container">
-    <div class="row">
-        <div class="card col-m-3"
+<section class="footer">
+    <div class="container-fluid sticky-bottom bg-dark">
+        <p class="align-content-center">howdy howdy howdy howdy</p>
     </div>
-</div>
-
-<div class="footer">
-
-</div>
+</section>
 </body>
