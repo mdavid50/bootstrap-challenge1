@@ -115,7 +115,7 @@
 </section>
 
 <section class="footer">
-    <div class="container-fluid sticky-bottom bg-dark">
+    <div class="container-fluid bg-dark">
         <p class="align-content-center">howdy howdy howdy howdy</p>
     </div>
 </section>
